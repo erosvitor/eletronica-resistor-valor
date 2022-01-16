@@ -32,8 +32,3 @@ Portanto, o valor do resistor é de **1M ohms**.
 
 ## Licença
 Este projeto está sob licença do MIT. Para mais detalhes, ver o arquivo LICENSE.
-
-## Histórico de lançamentos
-
-* 1.0.0 (2021-04-28)
-    * Primeira versão
